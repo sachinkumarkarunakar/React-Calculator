@@ -1,0 +1,43 @@
+{
+  "name": "react-calculator",
+  "version": "1.0.0",
+  "description": "Calculator app using react js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinkumarkarunakar/React-Calculator.git"
+  },
+  "keywords": [
+    "react",
+    "calculator",
+    "react-calcualtor"
+  ],
+  "author": "Sachin Kumar Karunakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinkumarkarunakar/React-Calculator/issues"
+  },
+  "homepage": "https://github.com/sachinkumarkarunakar/React-Calculator#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "bootstrap": "^4.4.1",
+    "css-loader": "^3.4.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {}
+}

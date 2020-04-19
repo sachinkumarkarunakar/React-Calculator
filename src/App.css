@@ -1,0 +1,28 @@
+.container-custom {
+  border:groove;
+  margin-left: 33%;
+  margin-right: 33%;
+  padding: 1rem;
+  background-color:#f8f9fa;
+  border-radius: 0.5rem;
+}
+.inner-container {
+  border-radius: 0.5rem;
+  background-color: white;
+}
+h1{
+  text-align: center;
+}
+.display{
+  text-align: right;
+}
+.displayBoard {
+  height :4rem;
+  padding: 0.5rem;
+}
+.keyboardTable{
+  width:100%
+}
+button {
+  width: 100%
+}
